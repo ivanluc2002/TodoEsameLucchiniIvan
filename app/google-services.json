@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800116389952",
+    "project_id": "todoesamelucchiniivan",
+    "storage_bucket": "todoesamelucchiniivan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800116389952:android:80e39d2703c8734f7807a5",
+        "android_client_info": {
+          "package_name": "com.example.todoesamelucchiniivan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800116389952-8nmeka63ote9vn83oqli4aqqp6a2vpql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbekZgKencMtvsMnZzQeyDQjmiVDOq_Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800116389952-8nmeka63ote9vn83oqli4aqqp6a2vpql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
