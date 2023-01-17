@@ -42,6 +42,7 @@ private Button button;
             @Override
             public void onClick(View view) {
                 addDb(azioni);
+
             }
         });
 
@@ -82,6 +83,7 @@ private Button button;
         ref1.add(data).addOnSuccessListener(documentReference -> {
             Log.d("aggiunto", "addDb: "+documentReference.getId());
             azioni.add(inserisciAzione.getText());
+
         }).addOnFailureListener(e -> {
             Log.w("errore", "addDb: ", e);
         });
